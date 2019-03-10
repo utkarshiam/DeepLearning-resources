@@ -1,8 +1,7 @@
 **TL;DR** Super awesome list of resources for people who want to learn deep learning
 
-# Deep Learning for Complete F*@king Noobs! (DL4CFN) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-We have a Discord community now!! -> [![Discord](https://img.shields.io/discord/102860784329052160.svg)](https://discord.gg/MAMPnmm) join today =) !
+
 
 ## Here we go
 
